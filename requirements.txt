@@ -1,4 +1,0 @@
-openai
-sqlglot
-psycopg2-binary
-python-dotenv
